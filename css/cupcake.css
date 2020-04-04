@@ -1,0 +1,42 @@
+.navbar-home {
+    background-color: pink;
+    border-color: none;
+    border-radius: 0px;
+    margin-bottom: 0px;
+    border: none;
+}
+
+.thebody{
+	background-color: #FFDAC1;
+}
+
+.carousel-content {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 550px;
+}
+
+.container-about{
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
+
+.footer{
+	background: pink;
+	padding: 1.5rem 0;
+	color: darkblue;
+}
+
+.navbar-home .navbar-brand{
+	color: darkblue;
+	font-weight: bold;
+}
+
+.navbar-home .navbar-nav> li > a{
+	color: darkblue;
+}
+
+.products{
+	margin-top: 3rem;
+}
